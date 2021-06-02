@@ -2,7 +2,6 @@
 <html>
 <body>
 <h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-<p>I'm hosted with GitHub Pages. This is the output of README.md in gh-pages</p>
+  <p>I'm hosted with GitHub Pages. This is the output of <b>README.md</b> in <i>gh-pages</i></p>
 </body>
 </html>
